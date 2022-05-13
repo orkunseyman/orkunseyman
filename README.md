@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orkun Seyman</h1>
-<h3 align="center">3th grade in Computer Science</h3>
+<h3 align="center">3rd grade in Computer Science</h3>
 
 - 🔭 I’m currently working on [bursapediary](https://github.com/ReCoded-Org/capstone-turkey-react-bursapediary)
 
