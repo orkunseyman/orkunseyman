@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orkun Seyman.</h1>
 <h3 align="center">4th grade in Computer Science</h3>
 
-- 🌱 I’m currently learning **.Net,C#**
+- 🌱 I’m currently learning **.Net, C#**
 
 - 💬 Ask me about **JavaScript**
 
