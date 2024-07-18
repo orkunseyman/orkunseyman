@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orkun Seyman.</h1>
-<h3 align="center">4th grade in Computer Science</h3>
+<h3 align="center">I am interested in Software Engineering</h3>
 
 - 🌱 I’m currently learning **.Net, C#**
 
